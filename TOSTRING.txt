@@ -1,0 +1,7 @@
+ ////METODO TOSTRING ES COMO EL METODO OVERRIDE DE ESTUDIANTE o sobreescritura EJMPLO
+            Libro fraccion1 = new Libro();
+            Console.WriteLine(fraccion1.ToString());  //muestra el espacio de nombre y donde se encuentra y para que muestre un resultado
+                                                      //necesitamos hacer un toString o Override en la clase
+
+            //int numero1 = 125;
+            //Console.WriteLine(numero1.ToString());  // se convierte en cadena

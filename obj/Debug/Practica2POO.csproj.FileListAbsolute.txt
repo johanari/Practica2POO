@@ -1,0 +1,7 @@
+D:\Certificaciones de programacion\Practica2POO\bin\Debug\Practica2POO.exe.config
+D:\Certificaciones de programacion\Practica2POO\bin\Debug\Practica2POO.exe
+D:\Certificaciones de programacion\Practica2POO\bin\Debug\Practica2POO.pdb
+D:\Certificaciones de programacion\Practica2POO\obj\Debug\Practica2POO.csproj.CoreCompileInputs.cache
+D:\Certificaciones de programacion\Practica2POO\obj\Debug\Practica2POO.exe
+D:\Certificaciones de programacion\Practica2POO\obj\Debug\Practica2POO.pdb
+D:\Certificaciones de programacion\Practica2POO\obj\Debug\Practica2POO.csprojAssemblyReference.cache
